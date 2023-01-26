@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = git@100.68.60.49:kubernetes-examples
+	fetch = +refs/heads/*:refs/remotes/origin/*
